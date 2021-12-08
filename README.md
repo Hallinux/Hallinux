@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hallinux  or call me just Hamed 
+- 👋 Hi, I’m @Hallinux 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C# 
 
