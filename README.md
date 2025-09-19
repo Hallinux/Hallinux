@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Hallinux  ( Hamed ) 
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning ASSEMBLY# 
+
 
  
 <!---
