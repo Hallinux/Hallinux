@@ -28,6 +28,15 @@ I enjoy analyzing systems, automating tasks, and developing tools that enhance *
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="45" height="45"/>
+</p>
+
+### 🔍 Cybersecurity & Forensics
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Wireshark_icon.svg" alt="Wireshark" width="45" height="45"/>
+  <img src="https://www.sleuthkit.org/images/autopsy-logo.png" alt="Autopsy" width="100" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Metasploit_logo_and_wordmark.png" alt="Metasploit" width="90" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Burp_Suite_logo.svg" alt="Burp Suite" width="60" height="45"/>
 </p>
 
 ### 🌐 Web & Cloud
